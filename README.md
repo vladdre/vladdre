@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I am a Computer Engineering student.<br><br>🎓 Currently studying: Bachelor's Degree in Computer Engineering at National University Politehnica Bucharest.<br>🌱 Refining my skills in: C, C++, and x86 Assembly, while expanding my knowledge in Python and Java.<br>🛠️ Deepening my expertise in: Operating Systems, Data Structures, and Numerical Methods.<br>🔭 Key projects: Developing stack-based browser simulations, low-level palindrome detectors in Assembly, and robot trajectory simulations.
+# Hi there 👋
+I am a Computer Engineering student.<br><br>🎓 Currently studying: Bachelor's Degree in Computer Engineering at National University Politehnica Bucharest.<br>🌱 Refining my skills in: C, C++, and x86 Assembly, while expanding my knowledge in Python and Java.<br>🛠️ Deepening my expertise in: Operating Systems, Data Structures, and Numerical Methods.<br>🔭 Key projects: Developing stack-based browser simulations, low-level palindrome detectors in Assembly, and robot trajectory simulations.
 
 
 ## 🌐 Socials:
